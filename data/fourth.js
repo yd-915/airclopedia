@@ -30,32 +30,30 @@ const eighties =
     ]
   },
   {
-    "Plane": "Dassault Rafale",
+    "Plane": "British Aerospace 146",
     "results": [
       {
-        "Definition": "Fourth generation fighter produced and developed by the Dassault Aviation",
-        "Introduction":"2001",
-        "National Origin":"France",
-        "First flight": "July 4, 1986",
+        "Definition": "Short-haul and regional airliner",
+        "Introduction":"May 1983",
+        "National Origin":"U.K.",
+        "First flight": "3 September 1981",
         "Retired": "N/A",
-        "Weight": "9,979 kg",
-        "Length":"15.27 m",
-        "Wingspan": "8.22 m",
-        "Units":"~240",
-        "Range": "3,700 km",
-        "Top Speed": "1,912 km/h",
-        "Engine type": "Turbofan, Snecma M88",
-        "Manufacturer(s)": "Dassault Aviation",
+        "Weight": "25,640 kg",
+        "Length":"31 m",
+        "Wingspan": "26.34 m",
+        "Units":"394",
+        "Range": "3,340 km",
+        "Top Speed": "789 km/h",
+        "Engine type": "BAe 146 : Lycoming ALF 502R-5, Avro RJ : Honeywell LF 507-1F",
+        "Passengers":"97–112",
+        "Flight Crew":"2",
+        "Manufacturer(s)": "British Aerospace, BAE Systems, Avro International",
         "Image":"https://imgs.search.brave.com/PoTvtVTG_iGa516_GpOFj9EPo1MIYTCzIIuYBdhpZWM/rs:fit:759:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5h/X0w2SG5pLU5fWnVM/THdtLXBvbFZBSGFF/byZwaWQ9QXBp",
         "Used by": [
-          "France",
-          "Croatia",
-          "Egypt",
-          "Greece",
-          "Qatar",
-          "India",
-          "Indonesia",
-          "U.A.E."
+          "U.K.",
+          "Sweden",
+          "Australia",
+         
           
       
       ],
