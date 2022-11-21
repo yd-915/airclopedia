@@ -1,23 +1,25 @@
-const fourth = 
+const eighties = 
 [
   {
-    "Plane": "Chengdu J-10",
+    "Plane": "Boeing 757",
     "results": [
       {
-        "Definition": "Multirole fighter aircraft ",
-        "Introduction":"2005",
-        "National Origin":"China",
-        "First flight": "23 March 1998",
+        "Definition": "American narrow-body airliner",
+        "Introduction":"January 1, 1983",
+        "National Origin":"U.S.A.",
+        "First flight": "February 19, 1982",
         "Retired": "N/A",
-        "Weight": "9,750 kg",
-        "Length":"16.9 m",
-        "Wingspan": "9.75 m",
-        "Units":"548+",
-        "Range": "1,850 km",
-        "Top Speed": "2,327 km/h",
-        "Engine type": " Turbofan, Saturn AL-31",
-        "Manufacturer(s)": "Chengdu Aircraft Design Institute",
-        "Image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/PLAAF_J-10B_with_PL-12_and_PL-8B_at_ZhuHai_Air_Show_2018.jpg/220px-PLAAF_J-10B_with_PL-12_and_PL-8B_at_ZhuHai_Air_Show_2018.jpg",
+        "Weight": "64,340 kg",
+        "Length":"54.4 m",
+        "Wingspan": "38.0 m",
+        "Units":"1,050",
+        "Range": "6,295 km",
+        "Top Speed": "918 km/h",
+        "Engine type": "Turbofan, Saturn AL-31",
+        "Passengers":"295",
+        "Flight Crew":"2",
+        "Manufacturer(s)": "Boeing Commercial Airplanes",
+        "Image":"https://en.wikipedia.org/wiki/File:Icelandair_Boeing_757-200_Wedelstaedt.jpg",
         "Countries used": [
           "China",
           "Pakistan",
@@ -392,4 +394,4 @@ const fourth =
   },
 ]
 
-module.exports = fourth;
+module.exports = eighties;
