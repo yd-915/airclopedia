@@ -1,4 +1,4 @@
-const second = 
+const sixties = 
 [
   {
     "Plane": "BAC One-Eleven",
@@ -367,4 +367,4 @@ const second =
   },
 ]
 
-module.exports = second;
+module.exports = sixties;
