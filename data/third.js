@@ -58,25 +58,27 @@ const third =
     ]
   },
   {
-    "Plane": "Mitsubishi F-1",
+    "Plane": "Boeing 747",
     "results": [
       {
-        "Definition": "Swept-wing, single-seat, twin-engine supersonic strike aircraft",
-        "Introduction": "1978",
-        "National Origin": "Japan",
-        "First flight": "December 23, 1966",
-        "Retired": "March 2006",
-        "Weight": "6,358 kg",
-        "Lenght": "18 m",
-        "Wingspan": "7.6 m",
-        "Units": "77",
-        "Range": "3,300 km",
-        "Top Speed": "1,700 km/h",
-        "Engine type": "Rolls-Royce Turbomeca Adour",
+        "Definition": "Large, long-range wide-body airliner ",
+        "Introduction": "January 22, 1970",
+        "National Origin": "U.S.A.",
+        "First flight": "February 9, 1969",
+        "Retired": "N/A",
+        "Weight": "220.1 t",
+        "Lenght": "76.25 m",
+        "Wingspan": "68.5 m",
+        "Units": "1,572",
+        "Range": "14,320 km",
+        "Top Speed": "939 km/h",
+        "Engine type": "Pratt & Whitney JT9D, Rolls-Royce RB211, General Electric CF6",
         "Manufacturer(s)": "Mitsubishi Heavy Industries, Ltd., Mitsubishi Aircraft Company",
-        "image": "https://imgs.search.brave.com/Y5Ax0nQDpPnv7dIrd4V1qpz26n57BNBSiqsMgfWk-5s/rs:fit:766:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5v/cWlZcU1PZUNuR1l6/RGdvbk01X0N3SGFF/bCZwaWQ9QXBp",
+        "image": "https://en.wikipedia.org/wiki/File:B-747_Iberia.jpg",
         "Countries used": [
-        "Japan"
+        "Australia",
+        "U.K.",
+        "U.S.A."
       ],
         
       },
