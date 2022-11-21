@@ -1,4 +1,4 @@
-const first = 
+const fifties = 
 [
   {
     "Plane": "de Havilland DH.106 Comet",
@@ -225,4 +225,4 @@ const first =
     
 ]
 
-module.exports = first;
+module.exports = fifties;
