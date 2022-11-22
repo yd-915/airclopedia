@@ -48,7 +48,7 @@ const eighties =
         "Passengers":"97–112",
         "Flight Crew":"2",
         "Manufacturer(s)": "British Aerospace, BAE Systems, Avro International",
-        "Image":"https://imgs.search.brave.com/PoTvtVTG_iGa516_GpOFj9EPo1MIYTCzIIuYBdhpZWM/rs:fit:759:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5h/X0w2SG5pLU5fWnVM/THdtLXBvbFZBSGFF/byZwaWQ9QXBp",
+        "Image":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fc%2Fc6%2FLufthansa.rj85.arp.jpg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBritish_Aerospace_146&tbnid=e4LmusjbUvkGGM&vet=12ahUKEwjZ5uH3wcD7AhVZo3IEHcYaDiMQMygAegUIARDiAQ..i&docid=YbX9MumBiYf9gM&w=1986&h=1241&q=British%20Aerospace%20146&ved=2ahUKEwjZ5uH3wcD7AhVZo3IEHcYaDiMQMygAegUIARDiAQ",
         "Used by": [
           "U.K.",
           "Sweden",
@@ -62,25 +62,30 @@ const eighties =
     ]
   },
   {
-    "Plane": "Mitsubishi F-2 Fighter",
+    "Plane": "McDonnell Douglas MD-80",
     "results": [
       {
-        "Definition": "Strike fighter manufactured by Mitsubishi Heavy Industries (MHI) and Lockheed Martin",
-        "Introduction":"2000",
-        "National Origin":"Japan",
-        "First flight": "7 October 1995",
+        "Definition": "Series of five-abreast single-aisle airliners",
+        "Introduction":"October 10, 1980",
+        "National Origin":"U.S.A.",
+        "First flight": "	October 18, 1979",
         "Retired": "N/A",
-        "Weight": "9,527 kg",
+        "Weight": "33,200 kg",
         "Length":"15,52 m",
-        "Wingspan": "11.13 m",
-        "Units":"98",
-        "Range": "834 km",
-        "Top Speed": "2,124 km/h",
-        "Engine type": "General Electric F110-GE-129",
-        "Manufacturer(s)": "Mitsubishi Heavy Industries (MHI) and Lockheed Martin",
-        "Image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/20170810034434%21Mitsubishi_F-2_in_flight_23_%28cropped%29.jpg/300px-20170810034434%21Mitsubishi_F-2_in_flight_23_%28cropped%29.jpg",
+        "Wingspan": "32.82 m",
+        "Units":"1,191",
+        "Range": "4,400–5,400 km",
+        "Top Speed": "873 km/h",
+        "Engine type": "Pratt & Whitney JT8D-200 ",
+        "Passengers":"172",
+        "Flight Crew":"2",
+        "Manufacturer(s)": "McDonnell Douglas, Boeing Commercial Airplanes",
+        "Image":"https://en.wikipedia.org/wiki/File:Iberia.md-88.ec-foz.arp.jpg",
         "Countries used": [
-          "Japan",
+          "U.S.A.",
+          "Mexico",
+          "Bulgaria",
+          "Venezuela"
       
       ],
         
@@ -88,28 +93,29 @@ const eighties =
     ]
   },
   {
-    "Plane": "CAC/PAC JF-17 Thunder",
+    "Plane": "Fokker 100",
     "results": [
       {
-        "Definition": "Lightweight multi-role combat aircraft",
-        "Introduction":"2007",
-        "National Origin":"Pakistan/China",
-        "First flight": "25 August 2003",
+        "Definition": "Regional jet",
+        "Introduction":"3 April 1988",
+        "National Origin":"Netherlands",
+        "First flight": "30 November 1986",
         "Retired": "N/A",
-        "Weight": "6,586 kg",
-        "Length":"14.32 m",
-        "Wingspan": "9 m",
-        "Units": "164",
-        "Range": "3,482 km",
-        "Top Speed": "1,910 km/h",
+        "Weight": "24,541 kg",
+        "Length":"35.53 m",
+        "Wingspan": "28.08 m",
+        "Units": "283",
+        "Range": "3,170 km",
+        "Top Speed": "845 km/h",
         "Engine type": "Turbofan",
-        "Manufacturer(s)": "Pakistan Aeronautical Complex, Chengdu Aircraft Industry Group",
-        "Image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pakistan_JF-17_%28modified%29.jpg/300px-Pakistan_JF-17_%28modified%29.jpg",
+        "Manufacturer(s)": "Fokker",
+        "Image":"https://en.wikipedia.org/wiki/File:Austrian_Arrows_Fokker_F100_(1)_(cropped).jpg",
         "Countries used": [
-          "Pakistan",
-          "Iraq",
-          "Myanmar",
-          "Nigeria",
+          "Australia",
+          "Papua New Guinea",
+          "Romania",
+          "Iran",
+          
           
       ],
         
