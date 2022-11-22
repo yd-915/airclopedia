@@ -1,21 +1,26 @@
-const five = 
+const nineties = 
 [
   {
-    "Plane": "Lockheed Martin F-22 Raptor",
+    "Plane": "McDonnell Douglas MD-11",
     "results": [
       {
-        "Definition": "Stealth fighter aircraft",
-        "First flight": "September 7, 1997",
+        "Definition": "American tri-jet wide-body airliner",
+        "First flight": "January 10, 1990",
         "Retired": "N/A",
-        "Weight": "19,700 kg",
-        "Wingspan": "14 m",
-        "Range": "3,000 km",
-        "Top Speed": "2,414 km/h",
-        "Engine type": "Pratt & Whitney F119-PW-100",
-        "Manufacturer(s)": "Lockheed Martin",
-        "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/F-22_Raptor_edit1_%28cropped%29.jpg/300px-F-22_Raptor_edit1_%28cropped%29.jpg",
+        "Introduction": "December 20, 1990"
+        "Weight": "128,808 kg",
+        "Wingspan": "51.97 m",
+        "Range": "12,455 km",
+        "Top Speed": "886–940 km/h",
+        "Engine type": "PW4460/62, General Electric CF6-80C2D1F",
+        "Manufacturer(s)": "McDonnell Douglas, Boeing Commercial Airplanes",
+        "Image": "https://en.wikipedia.org/wiki/File:KLM_McDonnell_Douglas_MD-11_PH-KCK_Ingrid_Bergman.jpg",
         "Countries used": [
           "U.S.A.",
+          "Brazil",
+          "South Korea",
+          "China",
+          "Russia"
          
       ],
         
@@ -23,31 +28,26 @@ const five =
     ]
   },
   {
-    "Plane": "Lockheed Martin F-35A Lightning II",
+    "Plane": "Airbus A330",
     "results": [
       {
-        "Definition": "conventional takeoff and landing (CTOL) variant of the F-35 intended for the USAF and other air forces",
-        "First flight": "15 December 2006",
+        "Definition": "Wide-body aircraft",
+        "First flight": "2 November 1992",
         "Retired": "N/A",
-        "Weight": "13,290 kg",
-        "Wingspan": "10.7 m",
-        "Range": "2,200 km",
-        "Top Speed": "1,960 km/h ",
-        "Engine type": "Pratt & Whitney F135-PW-100",
+        "Introduction": "17 January 1994"
+        "Weight": "129,400 kg",
+        "Wingspan": "60.3 m",
+        "Range": "13,450 km",
+        "Top Speed": "871 km/h ",
+        "Units": "1,551",
+        "Engine type": "GE CF6 (except -200F), PW4000, Trent 700",
         "Manufacturer(s)": "Lockheed Martin",
-        "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/F-35A_flight_%28cropped%29.jpg/300px-F-35A_flight_%28cropped%29.jpg",
+        "Image": "https://en.wikipedia.org/wiki/File:Turkish_Airlines,_Airbus_A330-300_TC-JNL_NRT_(23708073592).jpg",
         "Used by": [
-          "Australia",
-          "Finland",
-          "Denmark",
-          "Japan",
-          "Italy",
-          "Netherlands",
-          "Poland",
-          "South Korea",
-          "Singapore",
+          "Turkey",
+          "China",
           "United States",
-          "United Kingdom"
+    
           
       
       ],
@@ -56,26 +56,28 @@ const five =
     ]
   },
   {
-    "Plane": "Lockheed Martin F-35B Lightning II",
+    "Plane": "Airbus A340",
     "results": [
       {
-        "Definition": "Short takeoff and vertical landing (STOVL) variant of the aircraft",
-        "First flight": "June 11, 2008",
+        "Definition": "Long-range, wide-body passenger airliner",
+        "First flight": "25 October 1991",
         "Retired": "N/A",
-        "Weight": "14,700 kg",
-        "Wingspan": "11 m",
+        "Introduction": "15 March 1993",
+        "Weight": "174 t",
+        "Wingspan": "63.45 m",
         "Range": "2,200 km",
-        "Top Speed": "1,976 km/h",
-        "Engine type": "Pratt & Whitney F135-PW-600",
-        "Manufacturer(s)": "Lockheed Martin",
-        "Image": "https://images02.military.com/sites/default/files/media/equipment/military-aircraft/f-35b-lightning-ii/2014/02/f-35b-lightning-ii_004.jpg",
+        "Top Speed": "914 km/h",
+        "Engine type": "PrCFM International CFM56-5C, Trent 553, Trent 556",
+        "Manufacturer(s)": "Airbus",
+        "Image": "https://en.wikipedia.org/wiki/File:Airbus_A340-311,_Lufthansa_AN1936774.jpg",
         "Used by": [
-          "Japan",
-          "Italy",
-          "Poland",
-          "South Korea",
-          "United States",
-          "United Kingdom"
+          "Germany",
+          "Iran",
+          "South Africa",
+          "Switzerland",
+          "United Arab Emirates",
+          "United Kingdom",
+          "Qatar",
           
       
       ],
@@ -84,21 +86,32 @@ const five =
     ]
   },
   {
-    "Plane": "Lockheed Martin F-35C Lightning II",
+    "Plane": "Boeing 777",
     "results": [
       {
         "Definition": "The U.S. Navy's first low-observable carrier-based aviation platform.",
-        "First flight": "June 6, 2010",
+        "First flight": "June 12, 1994",
         "Retired": "N/A",
-        "Weight": "15,800 kg",
-        "Wingspan": "10.7 m",
+        "Introduction": "June 7, 1995",
+        "Weight": "167,829 kg",
+        "Wingspan": "64.80 m",
         "Range": "2,200 km",
-        "Top Speed": "1,931 km/h",
-        "Engine type": "Pratt & Whitney F135-PW-600",
-        "Manufacturer(s)": "Lockheed Martin",
-        "Image":"https://images05.military.com/sites/default/files/media/equipment/military-aircraft/f-35c-lightning-ii/2014/02/f-35c-lightning-ii_004.jpg",
+        "Top Speed": "924–945 km/h",
+        "Units": "1,696",
+        "Engine type": "PW4000 / Trent 800 / GE90",
+        "Manufacturer(s)": "Boeing Commercial Airplanes",
+        "Image":"https://en.wikipedia.org/wiki/File:Cathay_Pacific_Boeing_777-200;_B-HNL@HKG.jpg",
         "Used by": [
           "United States",
+          "United Arab Emirates",
+          "Phillipines",
+          "Japan",
+          "France",
+          "Hong Kong",
+          "Qatar",
+          "United Kingdom",
+          "South Korea",
+          "Singapore",
           
           
       
@@ -181,4 +194,4 @@ const five =
 
 ]
 
-module.exports = five;
+module.exports = nineties;
