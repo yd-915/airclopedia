@@ -120,78 +120,7 @@ const nineties =
       },
     ]
   },
-  {
-    "Plane": "Sukhoi Su-57",
-    "results": [
-      {
-        "Definition": "Interceptor aircraft",
-        "First flight": "January 29, 2010",
-        "Retired": "N/A",
-        "Weight": "18,500 kg",
-        "wingspan": "14 m",
-        "Range": "5,500 km",
-        "Top Speed": " 2,130 km/h",
-        "Engine type": "Lyulka-Saturn AL-41F1",
-        "Manufacturer(s)": "United Aircraft Corporation",
-        "Image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sukhoi_Design_Bureau%2C_054%2C_Sukhoi_Su-57_%2849581303977%29.jpg/300px-Sukhoi_Design_Bureau%2C_054%2C_Sukhoi_Su-57_%2849581303977%29.jpg",
-        "Countries used": [
-          "Russia"
-      ],
-        
-      },
-    ]
-  },
-  {
-    "Plane": "Chengdu J-20",
-    "results": [
-      {
-        "Definition": "Fifth-generation, stealth, twin-engine fighter aircraft",
-        "First flight": "11 January 2011",
-        "Retired": "N/A",
-        "Weight": "17,000 kg",
-        "Wingspan": "14 m",
-        "Range": "4,500 km",
-        "Top Speed": "2,126 km/h",
-        "Engine type": "Xian WS-15",
-        "Manufacturer(s)": "Chengdu Aircraft Industry Group",
-        "Image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/J-20_at_CCAS2022_%2820220827103424%29.jpg/300px-J-20_at_CCAS2022_%2820220827103424%29.jpg",
-        "Countries used": [
-          "China",
-      ],
-        
-      },
-    ]
-  },
-  {
-    "Plane": "Eurofighter Typhoon",
-    "results": [
-      {
-        "Definition": "Twin-engine, canard–delta wing, multirole fighter",
-        "First flight": "27 March 1994",
-        "Retired": "N/A",
-        "Weight": "11,000 kg",
-        "Wingspan": "11 m",
-        "Range": "2,900 km",
-        "Top Speed": "2,495 km/h",
-        "Engine type": "Eurojet EJ200",
-        "Manufacturer(s)": "British Aerospace EAP",
-        "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RAF_Eurofighter_EF-2000_Typhoon_F2_Lofting-1.jpg/300px-RAF_Eurofighter_EF-2000_Typhoon_F2_Lofting-1.jpg",
-        "Countries used": [
-            "Austria",
-            "Germany",
-            "Italy",
-            "Kuwait",
-            "Oman",
-            "Qatar",
-            "Saudi Arabia",
-            "Spain",
-            "United Kingdom"
-      ],
-        
-      },
-    ]
-  },
-
+  
 ]
 
 module.exports = nineties;
